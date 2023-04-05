@@ -1,0 +1,306 @@
+.LandingPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.car-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.car {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.car img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.car h3 {
+  margin-top: 10px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.car p {
+  margin-top: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.find-dream-car {
+  background: aliceblue;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.button {
+  display: block;
+  margin: 10px auto 0;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buton {
+
+  float: right;
+  padding: 5px 30px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.row {
+  max-width: 80%;
+
+}
+
+
+.landingpage {
+ width: 100%;
+ height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  flex-direction: column;
+  font-size: 30px;
+
+}
+
+.mido {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+
+
+}
+
+
+
+
+.bigbox {
+  background: url(../js/images/sclass.png);
+  /* background-color: black; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+.carlist {
+  /* background-image:url(../js/images/black.jpg); */
+  background: linear-gradient(white, grey);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: firebrick;
+}
+
+body {
+  background-image: url(/02_Events_passing/01_Exercise_1/);
+}
+
+
+.loli {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 40px;
+}
+
+.loli1 {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+
+.header {
+
+  background-color: black;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+
+}
+
+.header ul {
+  display: flex;
+  margin: 0;
+}
+
+.header ul li {
+  padding: 25px;
+  list-style: none;
+  font-size: 30px;
+}
+
+.header ul li:hover {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
+
+
+
+.footer {
+
+  color: white;
+  /* background-image: url(../js/images/loggo.png);  */
+  background-color: grey;
+}
+
+.leasing {
+  width: 100%;
+  display: flex;
+  padding: 50px;
+
+  color: black;
+
+  font-size: 30px;
+  /* background-image:url(../js/images/loggo.png) ;  */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background: linear-gradient(white, grey);
+
+}
+
+.blende buton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  padding: 15px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.blende buton:hover {
+  opacity: 0.7;
+}
+
+.blende buton:ative {
+  opacity: 0.5;
+}
+
+
+.blendi buton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  padding: 15px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
+
+.blendi buton:hover {
+  opacity: 0.7;
+}
+
+.blendi buton:ative {
+  opacity: 0.5;
+}
+
+.foto {
+  background: url(../js/images/lloog-removebg-preview.png);
+  width: 600px;
+  height: 300px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  margin-left: 330px;
+}
+
+.foto1 {
+  background: url(../js/images/leas.png);
+  width: 50%;
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+
+
+}
+
+.leas {
+  width: 50%;
+}
+
+
+
+.Location__wrapper {
+  background: #BF181C;
+}
+.Location__content {
+  padding: 55px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-self: center;
+}
+.Location__content h3 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 40px;
+  color: #FFFFFF;
+}
+
+
+@media only screen and (max-width: 767px) {
+  .Location__content h3 {
+      font-size: 32px;
+      line-height: 36px;
+  }
+  .Location__content h4 {
+      text-align: center;
+      font-size: 28px;
+      line-height: 38px;
+  }
+}

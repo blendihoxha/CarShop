@@ -1,0 +1,3 @@
+exercises:
+    '1_Exercise 1': { max_points: 0, disabled: true, translations: { en: '1_Exercise 1' } }
+    '2_Exercise 2': { max_points: 0, disabled: true, translations: { en: '2_Exercise 2' } }

@@ -1,0 +1,142 @@
+{ "cars":
+  [
+    {
+      "id": 1,
+      "type":"newCar",
+      "make": "BMW",
+      "model": "M3",
+      "power": "425 hp",
+      "description": "The BMW M3 is a high-performance version of the BMW 3 Series, developed by BMW's in-house motorsport division, BMW M GmbH.",
+      "price": "$96,990",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/BMW_M3_Competition_%28G80%29_IMG_4041.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=357237560&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=3500&makeModelVariant1.modelId=45&maxFirstRegistrationDate=2023-12-31&minFirstRegistrationDate=2022-01-01&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&action=eyeCatcher&searchId=2155795e-3217-307a-31bf-c5b796a5c076&ref=srp"
+    },
+    {
+      "id": 2,
+      "type":"newCar",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "power": "469 hp",
+      "description": "The Mercedes-Benz C-Class is a line of compact executive cars produced by Daimler AG.",
+      "price": "$60,689",
+      "image": "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_674,q_auto:eco,w_1200/cms/uploads/ilf5cdqezlarfyhaz3a3",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=361389008&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=17200&makeModelVariant1.modelGroupId=6&maxMileage=00&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&searchId=803e2179-9885-99df-a124-6c451b6c73bf&ref=srp"
+    },
+    {
+      "id": 3,
+      "type":"newCar",
+      "make": "Audi",
+      "model": "RS7",
+      "power": "591 hp",
+      "description": "The Audi RS 7 is a high-performance variant of the Audi A7. It is powered by a 4.0-liter V8 engine producing 591 horsepower.",
+      "price": "$154,750",
+      "image": "https://www.carscoops.com/wp-content/uploads/2022/05/2022-ABT-Audi-RS7-R-1-1-1024x555.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=359885198&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=1900&makeModelVariant1.modelId=40&minFirstRegistrationDate=2022-01-01&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&action=topOfPage&top=1:1&searchId=4b880107-fe38-910f-a352-633d95ce2a66&ref=srp"
+    },
+    
+    {
+      "id": 4,
+      "type":"newCar",
+      "make": "Chevrolet",
+      "model": "Corvette",
+      "power": "495 hp",
+      "description": "The Chevrolet Corvette is a sports car produced by Chevrolet. The current generation, the C8, is powered by a 6.2-liter V8 engine producing 495 horsepower.",
+      "price": "$118,900",
+      "image": "https://www.thedrive.com/uploads/2022/10/03/corvette-z06-lead-image.png?auto=webp&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?dam=0&isSearchRequest=true&ms=6325%3B11%3B%3B&ref=quickSearch&sb=rel&vc=Car&id=363581947&action=topSimilarSellerAd&ref=srp"
+    },
+    {
+      "id": 5,
+      "type":"newCar",
+      "make": "Ford",
+      "model": "Mustang Shelby GT500",
+      "power": "760 hp",
+      "description": "The Ford Mustang Shelby GT500 is a high-performance variant of the Ford Mustang. It is powered by a 5.2-liter supercharged V8 engine producing 760 horsepower.",
+      "price": "$82,499",
+      "image": "https://cdn.shopify.com/s/files/1/0043/8471/8938/products/MustangShelby_Q322_Site_Hero1_0463ccf2-cc3d-48f0-83d3-3824c78a4919.jpg?v=1660334212",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=363299419&damageUnrepaired=NO_DAMAGE_UNREPAIRED&grossPrice=true&isSearchRequest=true&makeModelVariant1.makeId=9000&makeModelVariant1.modelId=30&maxPrice=90000&minPrice=70000&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&searchId=5a5f9b42-b8e2-18f6-2360-2d5938ce4913&ref=srp"
+    },
+    {
+      "id": 6,
+      "type":"newCar",
+      "make": "Lamborghini",
+      "model": "Huracán Evo",
+      "power": "630 hp",
+      "description": "The Lamborghini Huracán Evo is a high-performance sports car produced by Lamborghini. It is powered by a 5.2-liter V10 engine producing 630 horsepower.",
+      "price": "$300,000",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-5-1546863175.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=361724114&damageUnrepaired=NO_DAMAGE_UNREPAIRED&grossPrice=true&isSearchRequest=true&makeModelVariant1.makeId=14600&makeModelVariant1.modelId=12&maxPrice=300000&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&action=topOfPage&top=1:1&searchId=2713123b-b8b6-9205-4e18-5ccc6e5ba070&ref=srp"
+    },
+    {
+      "id": 7,
+      "type":"oldtimer",
+      "make": "Bugatti",
+      "model": "Chiron",
+      "power": "1500 hp",
+      "description": "The Bugatti Chiron is a mid-engine sports car developed and manufactured by Bugatti Engineering GmbH in France.",
+      "price": "$3,000,000",
+      "image": "https://www.bugatti.com/fileadmin/_processed_/sei/p54/se-image-204c6caaa086fafe35dc6199ebe10880.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=355619392&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=4350&makeModelVariant1.modelId=4&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&searchId=f26fefb9-1261-55de-5794-df7c3dc04f5f&ref=srp"
+  },
+  {
+      "id": 8,
+      "type":"oldtimer",
+      "make": "Koenigsegg",
+      "model": "Regera",
+      "power": "1500 hp",
+      "description": "The Koenigsegg Regera is a limited production, plug-in hybrid sports car manufactured by Swedish automotive manufacturer Koenigsegg.",
+      "price": "$2,000,000",
+      "image": "https://cdn.motor1.com/images/mgl/wl2WLE/s3/2019-koenigsegg-regera-0.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=358841713&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=13450&makeModelVariant1.modelId=4&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&fnai=next&searchId=fe75caea-fb73-514a-c7fe-29e1c46c7c2e&ref=srp"
+  },
+  {
+      "id": 9,
+      "type":"oldtimer",
+      "make": "Pagani",
+      "model": "Huayra",
+      "power": "720 hp",
+      "description": "The Pagani Huayra is a mid-engine sports car produced by Italian sports car manufacturer Pagani, succeeding the company's previous offering, the Zonda.",
+      "price": "$2,500,000",
+      "image": "https://img.jamesedition.com/listing_images/2023/03/17/14/05/04/3060e5ae-0611-405b-a80f-594ceffc247e/je/1000x620xc.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=364285986&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=149&makeModelVariant1.modelId=3&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&fnai=prev&searchId=d1151fc3-1a80-8370-5c08-8975bb5e64c7&ref=srp"
+  },
+  {
+      "id": 10,
+      "type":"oldtimer",
+      "make": "McLaren",
+      "model": "P1",
+      "power": "903 hp",
+      "description": "The McLaren P1 is a limited-production plug-in hybrid sports car produced by British automobile manufacturer McLaren Automotive.",
+      "price": "$2,000,000",
+      "image": "https://i.pinimg.com/originals/16/9c/e7/169ce7b94049ab643e5b56d26f412aad.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=339736481&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=137&makeModelVariant1.modelId=5&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&action=topOfPage&top=1:1&searchId=7997c5bf-1ad3-a907-36a0-b363b3bad5f7&ref=srp"
+  },
+  {
+      "id": 11,
+      "type":"oldtimer",
+      "make": "Ferrari",
+      "model": "LaFerrari",
+      "power": "950 hp",
+      "description": "The Ferrari LaFerrari is a limited production hybrid sports car produced by Italian automobile manufacturer Ferrari.",
+      "price": "$3,800,000",
+      "image": "https://car-images.bauersecure.com/wp-images/1419/0aferrarispy-001.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/details.html?id=363369963&damageUnrepaired=NO_DAMAGE_UNREPAIRED&isSearchRequest=true&makeModelVariant1.makeId=8600&makeModelVariant1.modelId=20&pageNumber=1&scopeId=C&sortOption.sortBy=relevance&fnai=prev&searchId=b656be06-075e-9e66-0ed7-efb7e9c66135&ref=srp"
+  },
+  {
+      "id": 12,
+      "type":"oldtimer",
+      "make": "Lamborghini",
+      "model": "Veneno",
+      "power": "750 hp",
+      "description": "The Lamborghini Veneno is a limited production high-performance sports car manufactured by Italian automobile manufacturer Lamborghini.",
+      "price": "$4,500,000",
+      "image": "https://www.thesupercarblog.com/wp-content/uploads/2022/08/Lamborghini-Veneno-Roadster-for-sale-UAE-1.jpg",
+      "carlink": "https://suchen.mobile.de/fahrzeuge/search.html?dam=0&isSearchRequest=true&ms=14600%3B%3B%3B&p=%3A3000000&ref=quickSearch&sb=rel&vc=Car"
+  }
+    
+    
+]
+
+
+
+}
