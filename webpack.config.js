@@ -1,7 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 
-const entryPath = "02_Events_passing/01_Exercise_1";
+const entryPath = "CarShop/src";
 
 module.exports = {
   mode: "none",
