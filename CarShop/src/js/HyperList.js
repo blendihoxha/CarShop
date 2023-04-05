@@ -50,7 +50,7 @@ function HyperList(props) {
        <div className='loli'>
 
         <div className='loli1'>
-          <h1 className='find-dream-car'>Find Your Old Timer Car</h1>
+          <h1 className='find-dream-car'>Find Your Hyper Car</h1>
 
           <Form.Group>
             <Form.Control
