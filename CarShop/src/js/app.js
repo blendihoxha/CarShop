@@ -7,6 +7,15 @@ import Header from './header';
 import HyperList from './HyperList';
 import Leasing from './Leasing'
 import Location from './Location';
+import Home from './Home';
+import Service from './Services';
+import OrderForm from './OrderForm';
+
+
+
+
+
+
 
 function App() {
 
@@ -24,9 +33,9 @@ function App() {
   }
   return (
     <div>
-      
-      <Header />
-
+      <Header /> 
+      <Home />
+    
       <LandingPage showcarlist={onshowcarlist} showHyperCarList={onshowHyperList}/>
       {
         showCars ?
@@ -44,6 +53,8 @@ function App() {
         null
       }
       <Leasing/>
+      <Service/>
+      <OrderForm/>
       <Location/>
       <Footer />
       </div>
